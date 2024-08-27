@@ -1,0 +1,2 @@
+2024-08-27 19:18:59,369 - ERROR - Error while tweeting: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
